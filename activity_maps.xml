@@ -35,6 +35,3 @@
                 android:onClick="onFindOnMap"
                 android:layout_toRightOf="@+id/input"> </Button>
 </fragment>
-
-<!-- "Go" first to appear when app launched -->
-<!-- light blue is the border around the go padding -->
